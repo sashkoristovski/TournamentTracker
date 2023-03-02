@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerLibrary", "TrackerLibrary\TrackerLibrary.csproj", "{313B19FA-EBB0-40CD-94C4-ADF73E4DB4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerUI", "TrackerUI\TrackerUI.csproj", "{3DAF42C6-0152-404D-BBA2-88DDC9481B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTournamentForm", "CreateTournamentForm\CreateTournamentForm.csproj", "{59339B51-1D3C-4751-B377-398574633E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTeamForm", "CreateTeamForm\CreateTeamForm.csproj", "{6526A4E2-1030-414F-B3E4-90853A7A5502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePrizeForm", "CreatePrizeForm\CreatePrizeForm.csproj", "{481C8B5A-D300-4B86-BB75-1389CFCA84F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentDashboardForm", "TournamentDashboardForm\TournamentDashboardForm.csproj", "{D1E41D94-18F4-4D6D-B944-4836C9949ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313B19FA-EBB0-40CD-94C4-ADF73E4DB4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313B19FA-EBB0-40CD-94C4-ADF73E4DB4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313B19FA-EBB0-40CD-94C4-ADF73E4DB4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313B19FA-EBB0-40CD-94C4-ADF73E4DB4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DAF42C6-0152-404D-BBA2-88DDC9481B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAF42C6-0152-404D-BBA2-88DDC9481B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAF42C6-0152-404D-BBA2-88DDC9481B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAF42C6-0152-404D-BBA2-88DDC9481B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59339B51-1D3C-4751-B377-398574633E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59339B51-1D3C-4751-B377-398574633E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59339B51-1D3C-4751-B377-398574633E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59339B51-1D3C-4751-B377-398574633E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6526A4E2-1030-414F-B3E4-90853A7A5502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6526A4E2-1030-414F-B3E4-90853A7A5502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6526A4E2-1030-414F-B3E4-90853A7A5502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6526A4E2-1030-414F-B3E4-90853A7A5502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481C8B5A-D300-4B86-BB75-1389CFCA84F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481C8B5A-D300-4B86-BB75-1389CFCA84F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481C8B5A-D300-4B86-BB75-1389CFCA84F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481C8B5A-D300-4B86-BB75-1389CFCA84F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E41D94-18F4-4D6D-B944-4836C9949ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E41D94-18F4-4D6D-B944-4836C9949ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E41D94-18F4-4D6D-B944-4836C9949ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E41D94-18F4-4D6D-B944-4836C9949ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5637A0-1A6B-4364-9B35-924EDB1F18CA}
+	EndGlobalSection
+EndGlobal
